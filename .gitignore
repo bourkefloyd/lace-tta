@@ -13,3 +13,4 @@ lace/paper/*.bcf
 lace/paper/*.run.xml
 lace/paper/*.bbl
 lace/paper/arxiv-upload.tar.gz
+SUBMISSION.md
